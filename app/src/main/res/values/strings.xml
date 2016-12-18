@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="choisir_ville">Choisir la ville</string>
+
+    <!--déclaration des ids qui vont m'etre utiles -->
+    <string name="open_weather_maps_app_id">4b901fa3f006e19cb885d82755f8c695</string>
+
+    <string name="soleil">&#xf00d;</string>
+    <string name="nuit">&#xf02e;</string>
+
+    <string name="brume">&#xf014;</string>
+    <string name="nuageu">&#xf013;</string>
+    <string name="pluie">&#xf019;</string>
+    <string name="neige">&#xf01b;</string>
+    <string name="tonnerre">&#xf01e;</string>
+    <string name="precipitations">&#xf01c;</string>
+    <string name="envoyer_sms"> Envoyer à un ami</string>
+    <string name="ville_non_trouve">Désolé, les informations sont indisplonibles pour cette ville</string>
+
+
+
+    <!--les strings pour la deuxième activité-->
+
+        <string name="numero">Numero</string>
+        <string name="message">Message</string>
+        <string name="envoyer">Envoyer</string>
+
+
+</resources>

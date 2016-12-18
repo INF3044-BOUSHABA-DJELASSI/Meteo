@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MeteoActivity"
+    tools:showIn="@layout/activity_meteo">
+
+    <!-- Menu pour que l'utilisateur puisse choisir sa ville -->
+    <item
+        android:id="@+id/choisir_ville"
+        android:title="@string/choisir_ville"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+
+        />
+</menu>
